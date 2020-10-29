@@ -155,26 +155,6 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
-
-### Repository
-
-Several of these kernels are available in a PPA for Ubuntu 15.10 (wily)/16.04 (xenial). Add it with:
-
-    sudo add-apt-repository ppa:chronitis/jupyter
-    sudo apt-get update
-    sudo apt-get install <kernelname>
-
-The following kernel packages are available (along with their dependencies):
-
- * `ihaskell`
- * `ijulia`
- * `ijavascript`
- * `irkernel`
- * `iruby`
- * `gophernotes` (xenial only)
-
-(The repository doesn't contain ipython/jupyter - you'll still need to install it with `pip`)
-
 ## Additional Related Projects
 
 *   [Jove](https://github.com/jove-sh) - notebook interface in Java; provides Spark and Scala kernels
