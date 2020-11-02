@@ -101,7 +101,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[ROOT](https://github.com/root-project/root/tree/master/bindings/jupyroot)|Jupyter|C++/python|ROOT >= 6.05|||
 |[Gnuplot Kernel](https://github.com/has2k1/gnuplot_kernel)||Gnuplot||[Example](https://github.com/has2k1/gnuplot_kernel/tree/master/examples)|MetaKernel|
 |[Tcl](https://github.com/rpep/tcl_kernel)|Jupyter|Tcl 8.5|||Based on Bash Kernel|
-|[Tcl](https://github.com/mpcjanssen/tcljupyter)|Jupyter|Tcl 8.6|||Written from scratch with a patched Tcl zmq binding|
+|[Tcl](https://github.com/mpcjanssen/tcljupyter)|Jupyter|Tcl 8.6||[Binder demo](https://mybinder.org/v2/gh/mpcjanssen/tcljupyter/binder?filepath=examples%2Fexample.ipynb)|Written from scratch with a patched Tcl zmq binding|
 |[J](https://github.com/martin-saurer/jkernel)|Jupyter Notebook/Lab|J 805-807 (J901beta)||[Examples](https://github.com/martin-saurer/jkernel)||
 |[Jython](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Jython>=2.7.0|Java>=7||Java based JSR223 compliant||
 |[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|C|`gcc`||||
