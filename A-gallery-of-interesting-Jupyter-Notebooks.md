@@ -205,6 +205,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [The Collapse of Bubble Near a Wall](https://github.com/dmnguyen92/The-collapse-of-bubble-near-a-wall): This notebook solve the Rayleigh–Plesset equation to explain captured images of the collapse of a bubble near a solid boundary.
 
+* [radis-lab](https://github.com/radis/radis-lab), Online JupyterLab environment for molecular spectroscopy and comparison with experimental data.
+
 * [pyuvvis: tools for explorative spectroscopy](https://github.com/hugadams/pyuvvis), spectroscopy library built for integration ipython notebooks, matplotlib and pandas.
 
 * [HyperPython: a practical introduction to the solution of hyperbolic conservation laws](http://nbviewer.ipython.org/github/ketch/HyperPython/tree/master/), a course by [David Ketcheson](http://davidketcheson.info).
