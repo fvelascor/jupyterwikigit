@@ -153,7 +153,8 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[iTTS](https://github.com/KOLANICH/iTTS)||Natural languages|[speech-dispatcher](https://github.com/brailcom/speechd)|[Example](https://github.com/KOLANICH/iTTS/blob/master/tutorial.ipynb)|Currently cannot output sound into files or blobs because of limitations of speech-dispatcher|
 |[xeus-clickhouse](https://github.com/wangfenjin/xeus-clickhouse)||ClickHouse SQL|[xeus](https://github.com/jupyter-xeus/xeus)|[Example](https://github.com/wangfenjin/xeus-clickhouse/blob/master/examples/clickhouse.ipynb)|  |
 |[IQSharp](https://github.com/microsoft/iqsharp)|Jupyter 4|Q#||[QuantumKatas](https://github.com/microsoft/QuantumKatas)|
-|[.Net Interactive](https://github.com/dotnet/interactive/)|Jupyter 4| C#, F#, Powershell| [.Net Core SDK](https://dotnet.microsoft.com/download) |[Binder Examples](https://github.com/dotnet/interactive/blob/main/docs/NotebooksOnBinder.md) | |
+|[.Net Interactive](https://github.com/dotnet/interactive/)|Jupyter 4| C#, F#, Powershell| [.Net Core SDK](https://dotnet.microsoft.com/download) |[Binder Examples](https://github.com/dotnet/interactive/blob/main/docs/NotebooksOnBinder.md) |
+|[mariadb_kernel](https://github.com/MariaDB/mariadb_kernel)|Jupyter Notebook/Lab|SQL|[Internal Dependencies](https://github.com/MariaDB/mariadb_kernel/blob/master/requirements.txt), [MariaDB Server](https://mariadb.org/download/)|[Binder notebook](https://mybinder.org/v2/gh/MariaDB/mariadb_kernel.git/master?filepath=binder%2Ftry_it_out.ipynb)|A Jupyter kernel for the MariaDB Open Source database| |
 
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
