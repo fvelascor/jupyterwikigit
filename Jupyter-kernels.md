@@ -106,6 +106,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[J](https://github.com/martin-saurer/jkernel)|Jupyter Notebook/Lab|J 805-807 (J901beta)||[Examples](https://github.com/martin-saurer/jkernel)||
 |[Jython](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Jython>=2.7.0|Java>=7||Java based JSR223 compliant||
 |[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|C|`gcc`||||
+|[jupyterC](https://github.com/XaverKlemenschits/jupyter-c-kernel)|Jupyter|C|`gcc>=3.0`||Supports `C89` to `C17`, Built for teaching C||
 |[TaQL](https://github.com/tammojan/taql-jupyter) | Jupyter | TaQL | [python-casacore](https://github.com/casacore/python-casacore) | [TaQL tutorial](http://taql.astron.nl) | |
 |[Coconut](http://coconut-lang.org/)|Jupyter|Coconut|||||
 |[SPARQL](https://github.com/paulovn/sparql-kernel)|Jupyter 4|Python 2.7 or >=3.4|[rdflib](https://github.com/RDFLib/rdflib), [SPARQLWrapper](https://rdflib.github.io/sparqlwrapper/)|[Examples](http://nbviewer.jupyter.org/github/paulovn/sparql-kernel/tree/master/examples/)| Optional [GraphViz](http://www.graphviz.org/) dependency|
