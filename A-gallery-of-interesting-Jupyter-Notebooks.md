@@ -96,6 +96,8 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 Cardiovascular Modeling](http://sathercenter.berkeley.edu/peder-sather-grant/2016-grantees/)
 by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Sturdy.
 
+* [XAI-Analytics](https://github.com/Batev/XAI-Analytics) is a tool that opens the black-box of machine learning. It helps the user to understand the decision-making process of machine learning models. XAI-Analytics consists of an interactive notebook with a user-friendly interface and two example notebooks [Adult Census Income](https://htmlpreview.github.io/?https://github.com/Batev/XAI-Analytics/blob/master/XAI-Example-Income.html) and [Risk Factors for Cervical Cancer](https://htmlpreview.github.io/?https://github.com/Batev/XAI-Analytics/blob/master/XAI-Example-Cervical.html).
+
 * [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook), a collection of notebooks by [Jake VanderPlas](http://vanderplas.com) to accompany the book.
 
 * [Data Cleaning using Python with Pandas Library](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning/Data_Cleaning_using_Python_with_Pandas_Library.ipynb), a Date Science notebook which clearly explains Data Cleaning using Python with Pandas Library at a beginner level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu).
