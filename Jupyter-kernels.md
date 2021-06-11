@@ -156,6 +156,7 @@ Here is a list of available kernels. If you are writing your own kernel, feel fr
 |[.Net Interactive](https://github.com/dotnet/interactive/)|Jupyter 4| C#, F#, Powershell| [.Net Core SDK](https://dotnet.microsoft.com/download) |[Binder Examples](https://github.com/dotnet/interactive/blob/main/docs/NotebooksOnBinder.md) |
 |[mariadb_kernel](https://github.com/MariaDB/mariadb_kernel)|Jupyter Notebook/Lab|SQL|[Internal Dependencies](https://github.com/MariaDB/mariadb_kernel/blob/master/requirements.txt), [MariaDB Server](https://mariadb.org/download/)|[Binder notebook](https://mybinder.org/v2/gh/MariaDB/mariadb_kernel.git/master?filepath=binder%2Ftry_it_out.ipynb)|A Jupyter kernel for the MariaDB Open Source database|
 |[ISetlX](https://github.com/1b15/iSetlX)|Jupyter|SetlX||[Example](https://github.com/1b15/iSetlX/blob/master/example_notebooks/fibonacci.ipynb)||
+|[Ganymede](https://github.com/allen-ball/ganymede)|Jupyter >=4.0|Java 11+||[Examples](https://github.com/allen-ball/ganymede/tree/trunk/notebooks)|
 
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
