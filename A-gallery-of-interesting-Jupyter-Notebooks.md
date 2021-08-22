@@ -185,7 +185,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 ### Mathematics, Physics, Chemistry, Biology
 
-* [Quantum Scattering Model](https://github.com/josh-u-a/quantum_scattering/blob/master/QM_scattering.ipynb). This is a 1-dimensional quantum scattering model. This allows for the creation of different potentials and wave packets. The output is an animation of an wave packet incident on a potential with measurements for the reflection, transmission, and middle coefficients in the upper graph. The lower graph displays the k-space (momentum space). The theory behind the model can be found here: (https://github.com/josh-u-a/quantum_scattering/blob/master/QuantumScattering.pdf) 
+* [Quantum Scattering Model](https://github.com/josh-u-a/quantum_scattering/blob/master/QM_scattering.ipynb). This is a 1-dimensional quantum scattering model. This allows for the creation of different potentials and wave packets. The output is an animation of an wave packet incident on a potential with measurements for the reflection, transmission, and middle coefficients in the upper graph. The lower graph displays the k-space (momentum space). The theory behind the model can be found [here](https://github.com/josh-u-a/quantum_scattering/blob/master/QuantumScattering.pdf).
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
 
