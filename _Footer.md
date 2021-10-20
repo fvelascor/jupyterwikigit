@@ -1,1 +1,1 @@
-[You are viewing the wiki docs associated with Jupyter. This is not a notebook.](https://github.com/jupyter/jupyter/wiki)
+You are viewing the [GitHub wiki](https://github.com/jupyter/jupyter/wiki) associated with [Jupyter](https://jupyter.org/). This is not a notebook.
