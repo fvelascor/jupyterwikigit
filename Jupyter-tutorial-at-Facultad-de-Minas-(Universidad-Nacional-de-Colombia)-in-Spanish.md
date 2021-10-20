@@ -1,1 +1,0 @@
-Estos son los vínculos a mis tutoriales en Jupyter
