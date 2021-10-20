@@ -1,1 +1,1 @@
-1 + 1
+[This page has moved](https://github.com/jupyter/jupyter/wiki)
