@@ -181,7 +181,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) - collection of notebooks that use convolutional neural networks (CNNs), recurrent neural networks (RNNs) and multilayer perceptrons (MLPs) to solve basic machine learning tasks like objects detection and classification, sequence-to-sequence predictions etc.
 
-* [COVID-19: India's story](https://nbviewer.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/India/Indian_Complete_COVID-19_Analysis.ipynb), this notebook contains basic exploratory data analysis and visualizations
+* [COVID-19: India's story](https://nbviewer.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/India/Indian_Complete_COVID-19_Analysis.ipynb), this notebook contains basic exploratory data analysis and visualizations.
 
 ### Mathematics, Physics, Chemistry, Biology
 
