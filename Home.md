@@ -15,6 +15,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
     * [Linguistics and Text Mining](#linguistics-and-text-mining)
     * [Signal Processing](#signal-processing)
     * [Engineering Education](#engineering-education)
+    * [Cryptography](#cryptography)
 1. [Scientific computing and data analysis with the SciPy Stack](#scientific-computing-and-data-analysis-with-the-scipy-stack)
     * [General topics in scientific computing](#general-topics-in-scientific-computing)
     * [Social data](#social-data)
@@ -281,6 +282,13 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Introduction to Chemical Engineering Analysis](http://jckantor.github.io/CBE20255/) by [Jeff Kantor](http://jckantor.github.io/). A collection of IPython notebooks illustrating topics in introductory chemical engineering analysis, including stoichiometry, generation-consumption analysis, mass and energy balances.
 * [Sensors and Actuators](https://github.com/agmarrugo/sensors-actuators) by [Andres Marrugo](http://andresmarrugo.net). A collection of Jupyter notebooks in the form of lecture notes and engineering calculations for the course IMTR 1713 Sensors and Actuators taught at the [Universidad Tecnológica de Bolívar](http://www.unitecnologica.edu.co/).
+
+### Cryptography
+* [The Diffie&ndash;Hellman Key Agreement Protocol](https://nbviewer.org/github/dchampion/crypto/blob/master/doc/dh.ipynb) by [David Champion](https://github.com/dchampion). A notebook that demonstrates the Diffie&ndash;Hellman key agreement protocol.
+
+* [The Rivest&ndash;Shamir&ndash;Adleman (RSA) Cryptosystem](https://nbviewer.org/github/dchampion/crypto/blob/master/doc/rsa.ipynb) by [David Champion](https://github.com/dchampion). A notebook that demonstrates the RSA cryptosystem.
+
+* [An Elliptic Curve Cryptosystem](https://nbviewer.org/github/dchampion/crypto/blob/master/doc/ec.ipynb) by [David Champion](https://github.com/dchampion). A notebook that demonstrates an elliptic curve cryptosystem.
 
 ## Scientific computing and data analysis with the SciPy Stack
 ### General topics in scientific computing
