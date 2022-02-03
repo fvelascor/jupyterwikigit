@@ -121,7 +121,6 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[spylon-kernel](https://github.com/maxpoint/spylon-kernel)|ipykernel >=4.5|python >= 3.5, scala >= 2.11|Apache Spark >=2.0|[Example](https://github.com/maxpoint/spylon-kernel/blob/master/examples/basic_example.ipynb)|MetaKernel|
 |[mit-scheme-kernel](https://github.com/joeltg/mit-scheme-kernel)|Jupyter 4.0|MIT Scheme 9.2||||
 |[elm-kernel](https://github.com/abingham/jupyter-elm-kernel)|Jupyter|||[Examples](https://github.com/abingham/jupyter-elm-kernel/tree/master/examples)||
-|[SciJava Jupyter Kernel](https://github.com/hadim/scijava-jupyter-kernel)|Jupyter 4.3.0|Java + 9 scripting languages|Java|[Examples](https://github.com/hadim/scijava-jupyter-kernel/tree/master/notebooks)||
 |[Isbt](https://github.com/ktr-skmt/Isbt)|Jupyter 4.3.0|sbt >= 1.0.0|sbt|[example](https://github.com/ktr-skmt/Isbt/blob/master/examples/isbt_examples.ipynb)||
 |[BeakerX](http://beakerx.com/)|||Groovy, Java, Scala, Clojure, Kotlin, SQL|[example](https://github.com/twosigma/beakerx/blob/master/doc/StartHere.ipynb)|[docker image](https://hub.docker.com/r/beakerx/beakerx/)|
 |[MicroPython](https://github.com/goatchurchprime/jupyter_micropython_kernel/)|Jupyter|ESP8266/ESP32|USB or Webrepl|[developer notebooks](https://github.com/goatchurchprime/jupyter_micropython_developer_notebooks)|relies on the micro-controller's paste-mode|
