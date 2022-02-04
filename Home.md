@@ -290,6 +290,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [An Elliptic Curve Cryptosystem](https://nbviewer.org/github/dchampion/crypto/blob/master/doc/ec.ipynb) by [David Champion](https://github.com/dchampion). A notebook that demonstrates an elliptic curve cryptosystem.
 
+* [Elliptic Curves Over the Real Numbers](https://nbviewer.org/github/dchampion/crypto/blob/master/doc/EllipticCurves.ipynb) by [David Champion](https://github.com/dchampion). A notebook demonstrating the properties of elliptic curves over the real numbers, which facilitates understanding the behavior of their cryptographic brethren over finite fields.
+
 ## Scientific computing and data analysis with the SciPy Stack
 ### General topics in scientific computing
 
