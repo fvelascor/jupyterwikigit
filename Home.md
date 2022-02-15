@@ -774,6 +774,8 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 1. [pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/556423.full.pdf), a preprint by S. Bonaretti et al. Jupyter notebooks are used as a graphical user interface for medical image processing and analysis. The paper is interactive, with links to data, software, and documentation throughout the text. Every figure caption contains links to fully reproduce graphs.
 
+1. [Salt polygons are caused by convection](https://arxiv.org/abs/1902.03600), a preprint by J. Lasser et al. A [fully reproducible version of the publication](https://nbviewer.org/github/JanaLasser/salt-polygons-are-caused-by-convection/blob/master/salt_polygons_are_caused_by_convection.ipynb) including interactive visualizations and links to additional resources hosted in a [repo](https://github.com/JanaLasser/salt-polygons-are-caused-by-convection).
+
 ## Data-driven journalism
 
 * [The Need for Openness in Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](http://www.brianckeegan.com).
