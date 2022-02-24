@@ -84,6 +84,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[MetaKernel Python](https://github.com/Calysto/metakernel/tree/master/metakernel_python)||python|||MetaKernel|
 |[IVisual](https://pypi.python.org/pypi/IVisual)||VPython||[Ball-in-Box](http://nbviewer.jupyter.org/url/dl.dropboxusercontent.com/u/5095342/visual/Ball-in-Box.ipynb)||
 |[IBrainfuck](https://github.com/robbielynch/ibrainfuck)||Brainfuck||[Example](https://github.com/robbielynch/ibrainfuck/blob/master/notebooks/a-brief-look-at-brainfuck.ipynb)|Wrapper|
+|[JupyterQ (KX Official Kernel)](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)|Jupyter||kdb+ ≥ v3.5 64-bit, Python ≥ 3.6, embedPy|[Notebook Examples](https://github.com/KxSystems/jupyterq/blob/master/examples/q_widgets.ipynb)|
 |[KDB+/Q Kernel (IKdbQ)](https://github.com/jvictorchen/IKdbQ)|IPython >= 3.1|Q|qzmq, qcrypt|||
 |[KDB+/Q Kernel (KdbQ Kernel)](https://github.com/newtux/KdbQ_kernel)|Jupyter|Q||||
 |[PyQ Kernel](https://pypi.org/project/pyq-kernel)|Jupyter|Q||[Python for kdb+](https://pyq.enlnt.com/pyq-2017)||
