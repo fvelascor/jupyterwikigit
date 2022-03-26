@@ -159,6 +159,8 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[Ganymede](https://github.com/allen-ball/ganymede)|Jupyter >= 4.0|Java 11+, [Groovy](https://groovy-lang.org/), [Javascript](https://www.oracle.com/technical-resources/articles/java/jf14-nashorn.html), [Kotlin](https://kotlinlang.org/), [Scala](https://www.scala-lang.org/), [Apache Spark](http://spark.apache.org/), and more|[JShell](https://docs.oracle.com/en/java/javase/11/docs/api/jdk.jshell/jdk/jshell/JShell.html?is-external=true), [Apache Maven Resolver](https://maven.apache.org/resolver/index.html)|[Examples](https://github.com/allen-ball/ganymede-notebooks)|
 |[cqljupyter](https://github.com/bschoening/cqljupyter)|Jupyter|Cassandra CQL||[CQL Examples](https://github.com/bschoening/cqljupyter/blob/master/Sample.ipynb)|
 |[iclingo](https://github.com/thesofakillers/iclingo)|IPython 8|clingo|[clingo](https://pypi.org/project/clingo/)|[Basic Examples](https://github.com/thesofakillers/iclingo/tree/main/examples)||
+|[ICrystal](https://github.com/RomainFranceschini/icrystal)|Jupyter|Crystal|[IRC](https://github.com/crystal-community/icr)|||
+|[crystal_kernel](https://github.com/crystal-data/crystal_kernel)|Jupyter|Crystal|||Python wrapper kernel [Crystal interpreter](https://crystal-lang.org/2021/12/29/crystal-i.html)|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
