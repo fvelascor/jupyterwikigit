@@ -823,7 +823,7 @@ Of course the first thing you might try is searching for videos about IPython (1
 * [This video](https://www.youtube.com/watch?v=zG8FYPFU9n4) shows Plotly and IPython in use at a Montreal Python meetup. 
 
 ## Accessing and programing a IBM quantum computer via notebooks
-* [Github](https://github.com/Qiskit/qiskit-tutorial/blob/master/index.ipynb) notebook example (scroll down) illustrating how to use Qiskit and access the IBMQ quantum computers.
+* [Github](https://github.com/Qiskit/qiskit-tutorials/blob/master/start_here.ipynb) notebook example (scroll down) illustrating how to use Qiskit and access the IBMQ quantum computers.
 
 ## Software Architecture
 
