@@ -161,7 +161,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[iclingo](https://github.com/thesofakillers/iclingo)|IPython 8|clingo|[clingo](https://pypi.org/project/clingo/)|[Basic Examples](https://github.com/thesofakillers/iclingo/tree/main/examples)||
 |[ICrystal](https://github.com/RomainFranceschini/icrystal)|Jupyter|Crystal|[IRC](https://github.com/crystal-community/icr)|||
 |[crystal_kernel](https://github.com/crystal-data/crystal_kernel)|Jupyter|Crystal|||Python wrapper kernel [Crystal interpreter](https://crystal-lang.org/2021/12/29/crystal-i.html)|
-|[idg](https://github.com/LeaveNhA/idg)|Jupyter|Dg (Doge)||||
+|[idg](https://github.com/LeaveNhA/idg)|Jupyter|Dg (Doge)||[Example Notebooks](https://github.com/LeaveNhA/UIST602-DG)||
 
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
