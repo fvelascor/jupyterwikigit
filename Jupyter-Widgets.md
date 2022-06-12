@@ -10,6 +10,7 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 |------|-------------|-----|
 | ipywidgets | Python | Form controls (sliders, checkboxes, text inputs, date/color pickers) and containers (tabs, horizontal/vertical boxes, grid layout) |
 | ipyleaflet | Python | Geographic maps using leaflet |
+| ipyflex| Python | WYSIWYG layout editor for Jupyter Widgets |
 
 
 ## Frontends that support Jupyter widgets
