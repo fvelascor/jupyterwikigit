@@ -12,6 +12,14 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 | ipyleaflet | Python | Geographic maps using leaflet |
 
 
+## Frontends that support Jupyter widgets
+
+| Name      |  Package to install | Core widget support    | Custom widget support | Examples | Notes |
+|-----------|---------------------|------------------------|-----------------------|-------------------|-------|
+| [JupyterLab](https://jupyterlab.readthedocs.io)| `jupyterlab-widgets` (ipywidgets installs this automatically) |  ✅  |  ✅  |
+| [Jupyter Notebook](https://jupyter-notebook.readthedocs.io)| `widgetsnbextension` (ipywidgets installs this automatically) | ✅ | ✅ |
+
+
 ## Kernels that support Jupyter Widgets
 
 | Name      |  Package to install | Core widget support    | Custom widget support | Examples | Notes |
@@ -19,10 +27,4 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 | IPython/ipykernel | `ipywidgets` |  ✅  |  ✅  |
 
 
-## Frontends that support Jupyter widgets
-
-| Name      |  Package to install | Core widget support    | Custom widget support | Examples | Notes |
-|-----------|---------------------|------------------------|-----------------------|-------------------|-------|
-| [JupyterLab](https://jupyterlab.readthedocs.io)| `jupyterlab-widgets` (ipywidgets installs this automatically) |  ✅  |  ✅  |
-| [Jupyter Notebook](https://jupyter-notebook.readthedocs.io)| `widgetsnbextension` (ipywidgets installs this automatically) | ✅ | ✅ |
 
