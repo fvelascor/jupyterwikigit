@@ -10,6 +10,7 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 |------|-------------|-----|
 | [ipywidgets](https://github.com/jupyter-widgets/ipywidgets/) | Python | Form controls (sliders, checkboxes, text inputs, date/color pickers) and containers (tabs, horizontal/vertical boxes, grid layout) |
 | [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) | Python | Geographic maps using leaflet |
+| [pythreejs](https://github.com/jupyter-widgets/pythreejs) | Python | 3D library using three.js |
 | [ipyflex](https://github.com/trungleduc/ipyflex)| Python | WYSIWYG layout editor for Jupyter Widgets |
 | [bqplot](https://github.com/bqplot/bqplot) | Python | Python plotting library using d3js |
 | [ipytree](https://github.com/QuantStack/ipytree) | Python | A Tree Widget using jsTree |
