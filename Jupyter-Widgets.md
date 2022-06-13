@@ -20,6 +20,7 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 | [ipygany](https://github.com/QuantStack/ipygany) | Python | Scientific Visualization in Jupyter |
 | [ipydatagrid](https://github.com/bloomberg/ipydatagrid) | Python | Fast Datagrid widget in Jupyter |
 | [ipympl](https://github.com/matplotlib/ipympl) | Python | The Maptlotlib interactive backend |
+| [xwidgets](https://github.com/jupyter-xeus/xwidgets) | C++ | The C++ counterpart for ipywidgets |
 | [xcanvas](https://github.com/martinRenou/xcanvas) | C++ | A Canvas Widget |
 
 ## Frontends that support Jupyter widgets
@@ -32,9 +33,11 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 
 ## Kernels that support Jupyter Widgets
 
-| Name      |  Package to install | Core widget support    | Custom widget support | Examples | Notes |
-|-----------|---------------------|------------------------|-----------------------|-------------------|-------|
-| IPython/ipykernel | `ipywidgets` |  ✅  |  ✅  |
+| Name      | Language |  Package to install | Core widget support    | Custom widget support | Examples | Notes |
+|-----------|----------|---------------------|------------------------|-----------------------|-------------------|-------|
+| IPython/ipykernel | Python | `ipywidgets` |  ✅  |  ✅  |
+| [xeus-python](https://github.com/jupyter-xeus/xeus-python) | Python | `ipywidgets` |  ✅  |  ✅  |
+| [xeus-cling](https://github.com/jupyter-xeus/xeus-cling) | C++ |`xwidgets` |  ✅  |  ✅  |
 
 
 
