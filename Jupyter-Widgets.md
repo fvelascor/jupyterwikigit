@@ -20,6 +20,7 @@ In addition to the projects below, you may also find custom Jupyter Widgets in t
 | [ipygany](https://github.com/QuantStack/ipygany) | Python | Scientific Visualization in Jupyter |
 | [ipydatagrid](https://github.com/bloomberg/ipydatagrid) | Python | Fast Datagrid widget in Jupyter |
 | [ipympl](https://github.com/matplotlib/ipympl) | Python | The Maptlotlib interactive backend |
+| [ipytone](https://github.com/benbovy/ipytone) | Python | Interactive Audio in Jupyter |
 | [xwidgets](https://github.com/jupyter-xeus/xwidgets) | C++ | The C++ counterpart for ipywidgets |
 | [xcanvas](https://github.com/martinRenou/xcanvas) | C++ | A Canvas Widget |
 
