@@ -23,7 +23,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[ITypeScript](https://github.com/nearbydelta/itypescript)||Typescript >= 2.0|Node.js >= 0.10.0|||
 |[jpCoffeescript](https://github.com/n-riesco/jp-coffeescript)||coffeescript >= 1.7||||
 |[jp-LiveScript](https://github.com/p2edwards/jp-livescript)||livescript >= 1.5|||Based on IJavascript and jpCoffeescript|
-|[Juka](https://github.com/jukalang/juka)|Jupyter 4|Any|[Juka](https://jukalang.com/download)|[Example](https://github.com/jukaLang/juka_kernel/blob/main/JukaTest.ipynb)|Wrapper. Requires [Juka](https://jukalang.com/download) executable in PATH|
+|[Juka](https://github.com/jukaLang/juka_kernel)|Jupyter 4|Any|[Juka](https://jukalang.com/download)|[Example](https://github.com/jukaLang/juka_kernel/blob/main/JukaTest.ipynb)|Wrapper. Requires [Juka](https://jukalang.com/download) executable in PATH|
 |[ICSharp](https://github.com/zabirauf/icsharp)|Jupyter 4.0|C# 4.0+|scriptcs|||
 |[IRKernel](http://irkernel.github.io/)|IPython 3.0|R 3.2|rzmq|||
 |[SageMath](http://www.sagemath.org/)|Jupyter 4|Any|many|||
