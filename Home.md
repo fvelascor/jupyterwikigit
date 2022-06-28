@@ -232,6 +232,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Applied Elasticity](https://github.com/jeevanjyoti4/elasticity): A collection of notebooks used to determine solutions to some classical 2D elasticity problems. These were mostly live coded during class hours by [Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti) as part of the course "Applied Elasticity" in the Mechanical Engineering Department of the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/). 
 
+* [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists) is a Jupyter Book that introduces basic Python and data handling and applies it to chemical problems such as spectroscopy, equilibrium, chemical simulations, image analysis, and machine learning, by Charles Weiss.
+
 
 ### Earth Science and Geo-Spatial data
 
