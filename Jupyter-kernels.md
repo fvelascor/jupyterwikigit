@@ -55,7 +55,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[IScilab](https://github.com/calysto/scilab_kernel)|Jupyter|Scilab||[Example](http://nbviewer.jupyter.org/github/Calysto/scilab_kernel/blob/master/scilab_kernel.ipynb)|MetaKernel|
 |[MATLAB Kernel](https://github.com/calysto/matlab_kernel)|Jupyter|Matlab|pymatbridge|[Example](http://nbviewer.ipython.org/github/Calysto/matlab_kernel/blob/master/matlab_kernel.ipynb)|MetaKernel|
 |[Bash](https://github.com/takluyver/bash_kernel)|IPython >= 3|bash|||Wrapper|
-|[Z shell](https://github.com/danylo-dubinin/zsh-jupyter-kernel)|IPython >= 3|zsh >= 5.3|||
+|[Z shell](https://github.com/dan-oak/zsh-jupyter-kernel)|IPython >= 3|zsh >= 5.3|[Example](https://github.com/dan-oak/zsh-jupyter-kernel/blob/master/example.ipynb)||
 |[Pharo Smalltalk](https://github.com/jmari/JupyterTalk)|IPython >= 3|Mac Os X||[Binder demo](https://mybinder.org/v2/gh/jmari/JupyterTalk.git/master?filepath=Tutorial1_BasicStatistics.ipynb)|Paro 64 bits native kernel, zeromq|
 |[PowerShell](https://github.com/vors/jupyter-powershell)|IPython >= 3|Windows|||Wrapper, Based on Bash Kernel|
 |[CloJupyter](https://github.com/roryk/clojupyter)|Jupyter|Clojure >= 1.7||||
