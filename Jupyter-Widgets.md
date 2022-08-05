@@ -16,14 +16,12 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [ipycytoscape](https://github.com/cytoscape/ipycytoscape) | Python | Visualize node-edge graphs with Cytoscape |
 | [ipydagred3](https://github.com/timkpaine/ipydagred3) | Python | drawing directed acyclic graphs using dagre-d3  |
 | [ipydatagrid](https://github.com/bloomberg/ipydatagrid) | Python | Fast Datagrid widget |
-| [ipydatagrid](https://github.com/bloomberg/ipydatagrid) | Python | Fast Datagrid widget in Jupyter |
 | [ipydatawidgets](https://github.com/vidartf/ipydatawidgets) | Python | A set of widgets to help facilitate reuse of large datasets across widgets |
 | [ipyevents](https://github.com/mwcraig/ipyevents) | Python | Capture and interact with DOM Events in Python |
 | [ipyflex](https://github.com/trungleduc/ipyflex)| Python | WYSIWYG layout editor for Jupyter Widgets |
 | [ipygany](https://github.com/QuantStack/ipygany) | Python | Scientific Visualization in Jupyter |
 | [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) | Python | Geographic maps using leaflet |
 | [ipymaterialui](https://github.com/maartenbreddels/ipymaterialui) | Python | Jupyter Widgets based on React Material UI components |
-| [ipympl](https://github.com/matplotlib/ipympl) | Python | Matplotlib interactive backend |
 | [ipympl](https://github.com/matplotlib/ipympl) | Python | The Maptlotlib interactive backend |
 | [ipyregulartable](https://github.com/jpmorganchase/ipyregulartable) | Python | High performance, editable, stylable datagrids  |
 | [ipysegment](https://github.com/ianhi/ipysegment) | Python | manual image segmentation |
@@ -34,7 +32,6 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [ipyvue](https://github.com/widgetti/ipyvue) | Python | Jupyter widgets base for [Vue](https://vuejs.org/) libraries |
 | [ipyvuetify](https://github.com/widgetti/ipyvuetify) | Python | Jupyter widgets based on [vuetify UI components](https://vuetifyjs.com/) which implement Google's [Material Design Spec](https://material.io/) with the [Vue.js framework](https://vuejs.org/) |
 | [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) | Python | Create and record/stream a variety of media streams, such as videos, images, your own webcam, etc. |
-| [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) | Python | WebRTC in Jupyter |
 | [itkwidgets](https://github.com/InsightSoftwareConsortium/itkwidgets) | Python | Visualize images, point sets, and meshes in 2D and 3D |
 | [jdaviz](https://github.com/spacetelescope/jdaviz) | Python | Astronomical data analysis visualization tools |
 | [jupyter_bokeh](https://github.com/bokeh/jupyter_bokeh) | Python | An extension for rendering [Bokeh](https://bokeh.org/) content in JupyterLab notebooks |
