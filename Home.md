@@ -184,6 +184,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [COVID-19: India's story](https://nbviewer.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/India/Indian_Complete_COVID-19_Analysis.ipynb), this notebook contains basic exploratory data analysis and visualizations.
 
+* [Write a Machine Learning Algorithm from Scratch using Python](https://nbviewer.org/gist/chongchonghe/04bda4edb040d6a4a4c596a40cf2b3b5) - An introductory notebook on machine learning. With only about 100 lines of code, I wrote an image classification algorithm from scratch and make it do Handwritten Digit Recognition, without using any packages other than NumPy.
+
 ### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
