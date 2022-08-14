@@ -184,8 +184,6 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [COVID-19: India's story](https://nbviewer.org/github/Dhruv-praju/COVID-19-Tracker/blob/main/India/Indian_Complete_COVID-19_Analysis.ipynb), this notebook contains basic exploratory data analysis and visualizations.
 
-* [Write a Machine Learning Algorithm from Scratch using Python](https://nbviewer.org/gist/chongchonghe/04bda4edb040d6a4a4c596a40cf2b3b5) - An introductory notebook on machine learning. With only about 100 lines of code, I wrote an image classification algorithm from scratch and make it do Handwritten Digit Recognition, without using any packages other than NumPy.
-
 ### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](http://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
@@ -427,6 +425,8 @@ Joe McCarthy](http://interrelativity.com/joe).
 * [How Likely Would You Give A Five-Star Review on Yelp? -- Getting Your Hands Dirty with scikit-learn](http://nbviewer.jupyter.org/github/xun-tang/pyladies_jupyter_demo/blob/master/Predict_Review_Five_Star_Rating.ipynb), by [Xun Tang](https://www.linkedin.com/in/xuntang). Complimentary [slides](https://docs.google.com/presentation/d/1bfrXePztSa-yTP8n_qTdd9zazNS_tyJs1mG3fYItznI/edit).  
 
 * [Geodemographic Segmentation Model](http://nbviewer.jupyter.org/github/filipacsr/DataScience/blob/master/GeodemographicSegmentationModel.ipynb), by [Filipa Rodrigues](https://www.linkedin.com/in/filipacrodrigues/)
+
+* [Write a Machine Learning Algorithm from Scratch using Python](https://nbviewer.org/gist/chongchonghe/04bda4edb040d6a4a4c596a40cf2b3b5) by [ChongChong He](https://github.com/chongchonghe) - Write an image classification algorithm from scratch with 100 lines of code.
 
 ### Physics, Chemistry and Biology
 
