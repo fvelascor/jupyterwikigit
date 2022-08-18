@@ -63,6 +63,7 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [Google Colab](https://colab.research.google.com)| none |✅ | ✅| [Example](https://colab.research.google.com/gist/blois/9c9c66b4e1e9672b123f2ed8cda9091d/colab-widgets.ipynb) | |
 | [CoCalc](https://cocalc.com)| none | ✅ | partial | | |
 | [Databricks](https://databricks.com/) | none | ✅ | partial | [Examples](https://docs.databricks.com/notebooks/ipywidgets.html) | |
+| [JetBrains Datalore](https://datalore.jetbrains.com/) | none | ✅ | none | | |
 
 ## Kernels that support Jupyter Widgets
 
