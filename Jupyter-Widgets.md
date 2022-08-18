@@ -60,7 +60,7 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 |-----------|---------------------|------------------------|-----------------------|-------------------|-------|
 | [JupyterLab](https://jupyterlab.readthedocs.io)| `jupyterlab-widgets` (ipywidgets installs this automatically) |  ✅  |  ✅  |
 | [Jupyter Notebook](https://jupyter-notebook.readthedocs.io)| `widgetsnbextension` (ipywidgets installs this automatically) | ✅ | ✅ |
-| [JupyterLite](https://jupyterlite.readthedocs.io/en/latest)| none | ✅ | ✅ |
+| [JupyterLite](https://jupyterlite.readthedocs.io/en/latest)| none | ✅ | ✅ | [Examples](https://jupyterlite.readthedocs.io/en/latest/_static/lab) |
 | [VS Code](https://code.visualstudio.com)| none | ✅ | ✅ |
 | [Google Colab](https://colab.research.google.com)| none |✅ | ✅| [Example](https://colab.research.google.com/gist/blois/9c9c66b4e1e9672b123f2ed8cda9091d/colab-widgets.ipynb) | |
 | [CoCalc](https://cocalc.com)| none | ✅ | partial | | |
