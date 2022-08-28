@@ -163,7 +163,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[ICrystal](https://github.com/RomainFranceschini/icrystal)|Jupyter|Crystal|[IRC](https://github.com/crystal-community/icr)|||
 |[crystal_kernel](https://github.com/crystal-data/crystal_kernel)|Jupyter|Crystal|||Python wrapper kernel [Crystal interpreter](https://crystal-lang.org/2021/12/29/crystal-i.html)|
 |[idg](https://github.com/LeaveNhA/idg)|Jupyter|Dg (Doge)||[Example Notebooks](https://github.com/LeaveNhA/UIST602-DG)||
-
+|[Whitenote](https://github.com/makiuchi-d/whitenote)| Jupyter>=5 | Whitespace 0.1 | Go>=1.19 | [example.ipynb](https://github.com/makiuchi-d/whitenote/blob/main/example.ipynb) | [Docker image](https://hub.docker.com/r/makiuchid/whitenote) |
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
