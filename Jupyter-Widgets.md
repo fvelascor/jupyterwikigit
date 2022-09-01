@@ -17,6 +17,7 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [ipydagred3](https://github.com/timkpaine/ipydagred3) | Python | drawing directed acyclic graphs using dagre-d3  |
 | [ipydatagrid](https://github.com/bloomberg/ipydatagrid) | Python | Fast Datagrid widget |
 | [ipydatawidgets](https://github.com/vidartf/ipydatawidgets) | Python | A set of widgets to help facilitate reuse of large datasets across widgets |
+| [ipydatetime](https://github.com/vidartf/ipydatetime) | Python | Date/time pickers for ipywidgets 7 only (these widgets are included in ipywidgets 8 core widgets) |
 | [ipyevents](https://github.com/mwcraig/ipyevents) | Python | Capture and interact with DOM Events in Python |
 | [ipyflex](https://github.com/trungleduc/ipyflex)| Python | WYSIWYG layout editor for Jupyter Widgets |
 | [ipygany](https://github.com/QuantStack/ipygany) | Python | Scientific Visualization in Jupyter |
