@@ -12,7 +12,7 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [clustergrammer2](https://github.com/ismms-himc/clustergrammer2) | Python | "Dimensionality-increasing" data visualization tool and interactive WebGL Jupyter widget built for single-cell data. |
 | [glue-jupyter](https://github.com/glue-viz/glue-jupyter) | Python | [Glue](http://glueviz.org/) front-end for multi-dimensional linked-data exploration |
 | [idom-jupyter](https://github.com/idom-team/idom-jupyter) | Python | A client for [IDOM](https://github.com/idom-team/idom)  |
-| [ipycanvas](https://github.com/martinRenou/ipycanvas) | Python | A Canvas Widget |
+| [ipycanvas](https://github.com/martinRenou/ipycanvas) | Python | An HTML [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) Widget for displaying and interacting with 2d graphics |
 | [ipycytoscape](https://github.com/cytoscape/ipycytoscape) | Python | Visualize node-edge graphs with Cytoscape |
 | [ipydagred3](https://github.com/timkpaine/ipydagred3) | Python | drawing directed acyclic graphs using dagre-d3  |
 | [ipydatagrid](https://github.com/bloomberg/ipydatagrid) | Python | Fast Datagrid widget |
