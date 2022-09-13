@@ -41,6 +41,7 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [jupyter-scatter](https://github.com/flekschas/jupyter-scatter) | Python | Interactive 2D scatter plot widget scaling to millions of points |
 | [kepler.gl](https://github.com/keplergl/kepler.gl) | Python | Geospatial analysis tool for large-scale data sets. |
 | [lineup_widget](https://github.com/lineupjs/lineup_widget) | Python | Create, visualize and explore rankings of items based on a set of heterogeneous attributes using [LineUp.js](https://github.com/lineupjs/lineupjs) |
+| [mito](https://github.com/mito-ds/monorepo) | Python | A spreadsheet that generates Pandas code for every edit |
 | [mpl-interactions](https://github.com/ianhi/mpl-interactions) | Python | Helpful ways to interact with Matplotlib plots. |
 | [panel](https://github.com/holoviz/panel) | Python | A high-level app and dashboarding solution for Python |
 | [psplay](https://github.com/simonsobs/psplay) | Python | Interactive power spectrum code |
