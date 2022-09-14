@@ -19,6 +19,7 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [ipydatawidgets](https://github.com/vidartf/ipydatawidgets) | Python | A set of widgets to help facilitate reuse of large datasets across widgets |
 | [ipydatetime](https://github.com/vidartf/ipydatetime) | Python | Date/time pickers for ipywidgets 7 only (these widgets are included in ipywidgets 8 core widgets) |
 | [ipyevents](https://github.com/mwcraig/ipyevents) | Python | Capture and interact with DOM Events in Python |
+| [ipyfilechooser](https://github.com/crahan/ipyfilechooser) | Python | A file browser widget yielding the path and filename of the chosen file |
 | [ipyflex](https://github.com/trungleduc/ipyflex)| Python | WYSIWYG layout editor for Jupyter Widgets |
 | [ipygany](https://github.com/QuantStack/ipygany) | Python | Scientific Visualization in Jupyter |
 | [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) | Python | Geographic maps using leaflet |
