@@ -192,7 +192,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * Astrophysical simulations and analysis with [yt](http://yt-project.org): a collection of example notebooks on using various codes that yt interfaces with: [Enzo](http://nbviewer.ipython.org/url/hub.yt-project.org/notebooks/ac275ee8a462425c93b36e330e243705.ipynb), [Gadget](http://nbviewer.ipython.org/url/hub.yt-project.org/notebooks/e209c55b6aaa4a9ab12c55422bb3afdc.ipynb), [RAMSES](http://nbviewer.ipython.org/url/hub.yt-project.org/notebooks/9fe5b4bc68ce48d5aa665edbc4ec3aa3.ipynb), [PKDGrav](http://nbviewer.ipython.org/url/hub.yt-project.org/notebooks/9fe5b4bc68ce48d5aa665edbc4ec3aa3.ipynb) and [Gasoline](http://nbviewer.ipython.org/url/hub.yt-project.org/notebooks/9fe5b4bc68ce48d5aa665edbc4ec3aa3.ipynb). *Note:* the yt site currently throws an SSL warning, they seem to have an outdated or self-signed certificate.
 
-* Accessing the International Virtual Observatory ([IVOA](https://ivoa.net/ "https://ivoa.net/")) open access databases through [notebooks](https://github.com/cds-astro/tutorials, "https://github.com/cds-astro/tutorials") and exploitation of the data in research examples.
+* Accessing and using data in astrophysics. This list of tutorials demonstrate how to access the International Virtual Observatory ([IVOA](https://ivoa.net/ "https://ivoa.net/")) open access databases through [notebooks](https://github.com/cds-astro/tutorials, "https://github.com/cds-astro/tutorials").
 
 * [Working with Reactions](http://nbviewer.ipython.org/gist/4316430), part of a set of tutorials on [cheminformatics and machine learning with the rdkit project](http://code.google.com/p/rdkit/wiki/UGM2012Tutorials), by Greg Landrum.
 
