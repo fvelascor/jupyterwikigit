@@ -128,7 +128,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[IJava](https://github.com/SpencerPark/IJava)|Jupyter|Java 9|Java **JDK** >= 9|[Binder online demo](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master)|Based on the new JShell tool|
 |[Guile](https://github.com/jerry40/guile-kernel)|Jupyter 5.2|Guile 2.0.12|[guile-json](https://github.com/aconchillo/guile-json), openssl|||
 |[circuitpython_kernel](https://github.com/adafruit/circuitpython_kernel)|Jupyter|[CircuitPython](https://github.com/adafruit/circuitpython)|USB| [Examples](https://github.com/adafruit/circuitpython_kernel/tree/master/examples)| 
-|[stata_kernel](https://github.com/kylebarron/stata_kernel)|Jupyter >=5|Stata|Stata >=14| | Communicates natively with Stata| 
+|[stata_kernel](https://github.com/kylebarron/stata_kernel)|Jupyter >=5|Stata|Stata >=14| | Communicates natively with Stata|
 |[iPyStata](https://github.com/TiesdeKok/ipystata)|Jupyter|Stata|Stata| [Example Notebook](http://nbviewer.jupyter.org/github/TiesdeKok/ipystata/blob/master/ipystata/Example.ipynb)| Implemented using magics machinery of ipython. |
 |[IRacket](https://github.com/rmculpepper/iracket)|IPython >= 3|Racket >= 6.10|Racket, ZeroMQ|[Example](https://github.com/rmculpepper/iracket/blob/master/examples/getting-started.ipynb)||
 |[jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel)|Jupyter >= 4.0|dot/graphviz|graphviz version 2.40.1| | | |
@@ -164,6 +164,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[crystal_kernel](https://github.com/crystal-data/crystal_kernel)|Jupyter|Crystal|||Python wrapper kernel [Crystal interpreter](https://crystal-lang.org/2021/12/29/crystal-i.html)|
 |[idg](https://github.com/LeaveNhA/idg)|Jupyter|Dg (Doge)||[Example Notebooks](https://github.com/LeaveNhA/UIST602-DG)||
 |[Whitenote](https://github.com/makiuchi-d/whitenote)| Jupyter>=5 | Whitespace 0.1 | Go>=1.19 | [example.ipynb](https://github.com/makiuchi-d/whitenote/blob/main/example.ipynb) | [Docker image](https://hub.docker.com/r/makiuchid/whitenote) |
+|[pystata-kernel](https://github.com/ticoneva/pystata-kernel)||Stata >= 17|||Communicates with Stata through the [pystata](https://www.stata.com/python/pystata/) official Python bindings|
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
