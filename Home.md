@@ -216,7 +216,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [pyuvvis: tools for explorative spectroscopy](https://github.com/hugadams/pyuvvis), spectroscopy library built for integration ipython notebooks, matplotlib and pandas.
 
-* [HyperPython: a practical introduction to the solution of hyperbolic conservation laws](http://nbviewer.ipython.org/github/ketch/HyperPython/tree/master/), a course by [David Ketcheson](http://davidketcheson.info).
+* [HyperPython: a practical introduction to the solution of hyperbolic conservation laws](https://github.com/ketch/HyperPython), a course by [David Ketcheson](http://davidketcheson.info).
 
 * [An Introduction to Applied Bioinformatics](http://readiab.org/): Interactive lessons in bioinformatics, by [Greg Caporaso](http://caporasolab.us).
 
@@ -236,6 +236,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists) is a Jupyter Book that introduces basic Python and data handling and applies it to chemical problems such as spectroscopy, equilibrium, chemical simulations, image analysis, and machine learning, by Charles Weiss.
 
+* [Riemann Problems and Jupyter Solutions](https://bookstore.siam.org/fa16/bonus) is a Jupyter book that illustrates exact and approximate solution to Riemann problems, a key building block for understanding and solving hyperbolic partial differential equations modeling all kinds of wave propagation, by David Ketcheson, Randy LeVeque, and Mauricio del Razo.
 
 ### Earth Science and Geo-Spatial data
 
