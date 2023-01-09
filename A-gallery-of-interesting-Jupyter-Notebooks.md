@@ -1,1 +1,1 @@
-[This page has moved to https://github.com/jupyter/jupyter/wiki/home](https://github.com/jupyter/jupyter/wiki)
+[This page has moved to https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks](https://github.com/jupyter/jupyter/wiki#a-gallery-of-interesting-jupyter-notebooks)
