@@ -6,7 +6,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 
 |Name| Jupyter/IPython Version | Language(s) Version | 3rd party dependencies | Example Notebooks | Notes |
 |----|-------------------------|---------------------|------------------------|-------------------|-------|
-|[GoNB](https://github.com/janpfeifer/gonb)| Go >= 1.19 | | [Tutorial](https://github.com/janpfeifer/gonb/blob/e15ac2e8e3fe/examples/tutorial.ipynb)| |
+|[GoNB](https://github.com/janpfeifer/gonb)| Jupyter >= 5 | Go >= 1.19 | | [Tutorial](https://github.com/janpfeifer/gonb/blob/e15ac2e8e3fe/examples/tutorial.ipynb)| |
 |[Micronaut](https://github.com/stainlessai/micronaut-jupyter)||Python>=3.7.5, Groovy>3|[Micronaut](https://micronaut.io/)|https://github.com/stainlessai/micronaut-jupyter/blob/master/examples/basic-service/notebooks/use-library.ipynb|Compatible with [BeakerX](http://beakerx.com)|
 |[Agda kernel](https://github.com/lclem/agda-kernel) | | 2.6.0 | | https://mybinder.org/v2/gh/lclem/agda-kernel/master?filepath=example/LabImp.ipynb |  |
 |[Dyalog Jupyter Kernel](https://github.com/Dyalog/dyalog-jupyter-kernel)| |APL (Dyalog)|[Dyalog](https://www.dyalog.com/download-zone.htm) >= 15.0|[Notebooks](https://github.com/Dyalog/dyalog-jupyter-notebooks)|Can also be run on [TryAPL](https://tryapl.org/)'s Learn tab|
