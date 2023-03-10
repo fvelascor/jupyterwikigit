@@ -132,7 +132,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |[stata_kernel](https://github.com/kylebarron/stata_kernel)|Jupyter >=5|Stata|Stata >=14| | Communicates natively with Stata|
 |[iPyStata](https://github.com/TiesdeKok/ipystata)|Jupyter|Stata|Stata| [Example Notebook](http://nbviewer.jupyter.org/github/TiesdeKok/ipystata/blob/master/ipystata/Example.ipynb)| Implemented using magics machinery of ipython. |
 |[pystata-kernel](https://github.com/ticoneva/pystata-kernel)||Stata >= 17|||Communicates with Stata through the [pystata](https://www.stata.com/python/pystata/) official Python bindings|
-|[nbstata](https://github.com/hugetim/nbstata)|Jupyter >= 5.2|Stata >= 17|[pystata](https://www.stata.com/python/pystata/), [ipydatagrid](https://github.com/bloomberg/ipydatagrid)|[stata_kernel example](https://github.com/hugetim/nbstata/blob/master/manual_test_nbs/stata_kernel%20example.ipynb)||
+|[nbstata](https://hugetim.github.io/nbstata/)|Jupyter >= 5.2|Stata >= 17|[pystata](https://www.stata.com/python/pystata/), [ipydatagrid](https://github.com/bloomberg/ipydatagrid)|[stata_kernel example](https://github.com/hugetim/nbstata/blob/master/manual_test_nbs/stata_kernel%20example.ipynb)||
 |[IRacket](https://github.com/rmculpepper/iracket)|IPython >= 3|Racket >= 6.10|Racket, ZeroMQ|[Example](https://github.com/rmculpepper/iracket/blob/master/examples/getting-started.ipynb)||
 |[jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel)|Jupyter >= 4.0|dot/graphviz|graphviz version 2.40.1| | | |
 |[Teradata SQL kernel and extensions](https://teradata.github.io/jupyterextensions/)|JupyterLab >= 3.0|SQL|  |[Example Notebooks](https://github.com/Teradata/jupyterextensions/tree/master/notebooks) | | |
