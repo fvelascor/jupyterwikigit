@@ -56,6 +56,11 @@ Beyond the basic form controls (sliders, checkboxes, text inputs, date/color pic
 | [widget-periodictable](https://github.com/osscar-org/widget-periodictable) | Python | Select chemical elements from the periodic table. |
 | [xcanvas](https://github.com/martinRenou/xcanvas) | C++ | A Canvas Widget |
 | [xwidgets](https://github.com/jupyter-xeus/xwidgets) | C++ | The C++ counterpart for ipywidgets |
+| [fastplotlib](https://github.com/kushalkolar/fastplotlib) | Python | A fast plotting library built using the [pygfx](https://github.com/pygfx/pygfx) render engine utilizing [Vulkan](https://en.wikipedia.org/wiki/Vulkan) via WGPU |
+| [pygfx](https://github.com/pygfx/pygfx) | Python | A python render engine targeting Vulkan/Metal/DX12. |
+| [wgpu](https://github.com/pygfx/wgpu-py) | Python | A Python implementation of WebGPU - the next generation GPU API. |
+| [jupyter_rfb](https://github.com/vispy/jupyter_rfb) | Python | Remote Frame Buffer for Jupyter |
+
 
 ## Frontends that support Jupyter widgets
 
