@@ -90,7 +90,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 
 * [Top Python Libraries Used In Data Science](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb), this notebook explain the important library used in data science, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
-* [Web scraping using Python with BeautifulSoup and Requests libraries](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Web_scraping_Rate_My_Professor.ipynb), a notebook which explains scraping the data from the internet from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
+* [Web scraping using Python with BeautifulSoup and Requests libraries](https://github.com/Tanu-N-Prabhu/Python/blob/master/Data%20Scraping%20from%20the%20Web/Web_Scraping_Rate_My_Professor_Website.ipynb), a notebook which explains scraping the data from the internet from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
 * [Exploratory data analysis in Python](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb), a notebook which explains the steps to perform Exploratory data Analysis in python from the scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 
