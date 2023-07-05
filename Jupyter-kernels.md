@@ -114,6 +114,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Perl 6.C|[Jupyter-Perl6](https://github.com/bduggan/p6-jupyter-kernel)|Jupyter|[Rakudo Perl 6](http://rakudo.org/how-to-get-rakudo/)|||
 |Perl 6.c|[Perl6](https://github.com/gabrielash/p6-net-jupyter)|Jupyter >= 4|zeromq 4|||
 |Pike >= 7.8|[Pike](https://github.com/kevinior/jupyter-pike-kernel)|IPython >= 3|||Wrapper, Based on Bash Kernel|
+|PostScript|[IPostScript](https://github.com/kts/IPostScript)||`gs` (ghostscript)|||
 |Powershell|[PowerShell](https://github.com/vors/jupyter-powershell)|IPython >= 3|||Wrapper, Based on Bash Kernel|
 |Processing.js >= 2|[Calysto Processing](https://github.com/Calysto/calysto_processing)||||MetaKernel|
 |Prolog|[Prolog](https://github.com/Calysto/calysto_prolog)||||MetaKernel|
