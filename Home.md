@@ -239,6 +239,8 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Riemann Problems and Jupyter Solutions](https://bookstore.siam.org/fa16/bonus) is a Jupyter book that illustrates exact and approximate solution to Riemann problems, a key building block for understanding and solving hyperbolic partial differential equations modeling all kinds of wave propagation, by David Ketcheson, Randy LeVeque, and Mauricio del Razo.
 
+* [Advanced Fluid Mechannics](https://rclupc.github.io/AdvancedFluidMechanics/README.html) is a collection of Jupyter notebooks for the study of some topics on Fluid Mechanics: Rheology, Boundary Layer, Compressible Flow...
+
 ### Earth Science and Geo-Spatial data
 
 * [EarthPy](http://earthpy.org), a collection of IPython notebooks with a focus on Earth Sciences, from [whale tracks](http://earthpy.org/analyzing-whale-tracks.html) to the [flow of the Amazon](http://earthpy.org/earthpy-basemap-amazon.html).
