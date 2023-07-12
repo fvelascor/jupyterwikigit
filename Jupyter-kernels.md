@@ -31,7 +31,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |C++|[cling](https://github.com/root-mirror/cling)|Jupyter 4||[Example](https://github.com/root-mirror/cling/blob/master/tools/Jupyter/kernel/cling.ipynb)||
 |C++|[xeus-cling](https://github.com/QuantStack/xeus-cling)|Jupyter >= 5.1||[Example](https://github.com/QuantStack/xeus-cling/tree/master/notebooks)|Supports Jupyter widgets|
 |C++/python|[ROOT](https://github.com/root-project/root/tree/master/bindings/jupyroot)|Jupyter|ROOT >= 6.05|||
-|C, C++, Octave, PlantUML|[GPP](https://github.com/user1095108/jupyter-gpp-kernel)|Jupyter|`gcc`, `clang`|[Example](https://github.com/user1095108/jupyter-gpp-kernel/blob/master/example.ipynb)|MetaKernel||
+|bc, C, C++, ngspice, Octave, PlantUML|[GPP](https://github.com/user1095108/jupyter-gpp-kernel)|Jupyter|`gcc`, `clang`|[Example](https://github.com/user1095108/jupyter-gpp-kernel/blob/master/example.ipynb)|MetaKernel||
 |[Cadabra2](https://cadabra.science)|[Cadabra2](https://github.com/kpeeters/cadabra2/blob/master/JUPYTER.rst)|Jupyter 5||[Example notebook](https://github.com/kpeeters/cadabra2/blob/master/examples/schwarzschild.ipynb)||
 |Cassandra CQL|[cqljupyter](https://github.com/bschoening/cqljupyter)|Jupyter||[CQL Examples](https://github.com/bschoening/cqljupyter/blob/master/Sample.ipynb)|
 |[Chapel](https://github.com/chapel-lang/chapel/)|[jupyter_kernel_chapel](http://github.com/krishnadey30/jupyter_kernel_chapel)|Jupyter||||
