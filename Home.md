@@ -239,7 +239,6 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Riemann Problems and Jupyter Solutions](https://bookstore.siam.org/fa16/bonus) is a Jupyter book that illustrates exact and approximate solution to Riemann problems, a key building block for understanding and solving hyperbolic partial differential equations modeling all kinds of wave propagation, by David Ketcheson, Randy LeVeque, and Mauricio del Razo.
 
-* [Advanced Fluid Mechannics](https://rclupc.github.io/AdvancedFluidMechanics/README.html) is a collection of Jupyter notebooks for the study of some topics on Fluid Mechanics: Rheology, Boundary Layer, Compressible Flow...
 
 ### Earth Science and Geo-Spatial data
 
@@ -290,6 +289,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Introduction to Chemical Engineering Analysis](http://jckantor.github.io/CBE20255/) by [Jeff Kantor](http://jckantor.github.io/). A collection of IPython notebooks illustrating topics in introductory chemical engineering analysis, including stoichiometry, generation-consumption analysis, mass and energy balances.
 * [Sensors and Actuators](https://github.com/agmarrugo/sensors-actuators) by [Andres Marrugo](http://andresmarrugo.net). A collection of Jupyter notebooks in the form of lecture notes and engineering calculations for the course IMTR 1713 Sensors and Actuators taught at the [Universidad Tecnológica de Bolívar](http://www.unitecnologica.edu.co/).
+* [Advanced Fluid Mechannics](https://rclupc.github.io/AdvancedFluidMechanics/README.html) is a collection of Jupyter notebooks for the study of some topics on Fluid Mechanics: Rheology, Boundary Layer, Compressible Flow...
 
 ### Cryptography
 * [The Diffie&ndash;Hellman Key Agreement Protocol](https://nbviewer.org/github/dchampion/crypto/blob/master/doc/dh.ipynb) by [David Champion](https://github.com/dchampion). A notebook that demonstrates the Diffie&ndash;Hellman key agreement protocol.
