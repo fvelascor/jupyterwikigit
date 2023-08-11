@@ -1,3 +1,4 @@
+
 ## Jupyter kernels 
 
 Kernel Zero is [IPython](https://ipython.org), which you can get through [ipykernel](https://pypi.python.org/pypi/ipykernel), and is still a dependency of [jupyter](https://jupyter.org). The IPython kernel can be thought of as a reference implementation, as CPython is for Python.
@@ -27,6 +28,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |C|[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|`gcc`||||
 |C|[jupyterC](https://github.com/XaverKlemenschits/jupyter-c-kernel)|Jupyter|`gcc>=3.0`||Supports `C89` to `C17`, Built for teaching C||
 |C/C++|[c-kernel](https://github.com/adamtuft/c-kernel)|Jupyter|||Provides multiple kernels for easy teaching/learning of C/C++||
+|C/C++|[jupyter-cpp-kernel](https://github.com/takinekotfs/jupyter-cpp-kernel)|Jupyter|`g++>=13.2`|[Document](https://github.com/takinekotfs/jupyter-cpp-kernel-doc)|C++ kernel for Jupyter. Easily adopt and deployment for testing environment.||
 |C# 4.0+|[ICSharp](https://github.com/zabirauf/icsharp)|Jupyter 4.0|scriptcs|||
 | C#, F#, Powershell|[.Net Interactive](https://github.com/dotnet/interactive/)|Jupyter 4| [.Net Core SDK](https://dotnet.microsoft.com/download) |[Binder Examples](https://github.com/dotnet/interactive/blob/main/docs/NotebooksOnBinder.md) |
 |C++|[cling](https://github.com/root-mirror/cling)|Jupyter 4||[Example](https://github.com/root-mirror/cling/blob/master/tools/Jupyter/kernel/cling.ipynb)||
