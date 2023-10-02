@@ -27,7 +27,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Brainfuck|[IBrainfuck](https://github.com/robbielynch/ibrainfuck)|||[Example](https://github.com/robbielynch/ibrainfuck/blob/master/notebooks/a-brief-look-at-brainfuck.ipynb)|Wrapper|
 |C|[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|`gcc`||||
 |C|[jupyterC](https://github.com/XaverKlemenschits/jupyter-c-kernel)|Jupyter|`gcc>=3.0`||Supports `C89` to `C17`, Built for teaching C||
-|C/C++|[c-kernel](https://github.com/adamtuft/c-kernel)|Jupyter|||Provides multiple kernels for easy teaching/learning of C/C++||
+|C/C++|[c-kernel](https://c-kernel.readthedocs.io/en/latest/index.html)|Jupyter|||Automatic compilation, customisable kernel, interactive input and multi-file programs. Intended for easy teaching/learning of C/C++||
 |C/C++|[jupyter-cpp-kernel](https://github.com/takinekotfs/jupyter-cpp-kernel)|Jupyter|`g++>=13.2`|[Document](https://github.com/takinekotfs/jupyter-cpp-kernel-doc)|C++ kernel for Jupyter. Easily adopt and deployment for testing environment.||
 |C# 4.0+|[ICSharp](https://github.com/zabirauf/icsharp)|Jupyter 4.0|scriptcs|||
 | C#, F#, Powershell|[.Net Interactive](https://github.com/dotnet/interactive/)|Jupyter 4| [.Net Core SDK](https://dotnet.microsoft.com/download) |[Binder Examples](https://github.com/dotnet/interactive/blob/main/docs/NotebooksOnBinder.md) |
