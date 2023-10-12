@@ -88,7 +88,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Julia >= 0.3|[IJulia](https://github.com/JuliaLang/IJulia.jl)|||||
 |Jython 2.7|[IJython](https://github.com/suvarchal/IJython)|||||
 |Jython>=2.7.0|[Jython](https://github.com/fiber-space/jupyter-kernel-jsr223)|Jupyter>=4.0|Java>=7||Java based JSR223 compliant||
-|Kotlin 1.4.20-dev-*** DEV|[jupyter-kotlin](https://github.com/Kotlin/kotlin-jupyter)|Jupyter|Java >= 8||[Samples](https://mybinder.org/v2/gh/kotlin/kotlin-jupyter/master?filepath=samples)|
+|Kotlin|[kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter)|Jupyter|Java >= 8||[Samples](https://mybinder.org/v2/gh/kotlin/kotlin-jupyter/master?filepath=samples)|
 |Livescript >= 1.5|[jp-LiveScript](https://github.com/p2edwards/jp-livescript)||||Based on IJavascript and jpCoffeescript|
 |Lua|[Lua Kernel](https://github.com/neomantra/lua_ipython_kernel)|||||
 |Lua|[IPyLua](https://github.com/pakozm/IPyLua)||||Fork of *Lua Kernel*|
