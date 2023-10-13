@@ -52,6 +52,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Crystal|[ICrystal](https://github.com/RomainFranceschini/icrystal)|Jupyter|[IRC](https://github.com/crystal-community/icr)|||
 |Crystal|[crystal_kernel](https://github.com/crystal-data/crystal_kernel)|Jupyter|||Python wrapper kernel [Crystal interpreter](https://crystal-lang.org/2021/12/29/crystal-i.html)|
 |Dart|[jupyter-dart-kernel](https://github.com/vickumar1981/jupyter-dart-kernel)|Jupyter|dart||
+|Deno|[jupyter-deno-kernel](https://docs.deno.com/runtime/manual/tools/jupyter)|Jupyter|Deno >= 1.37.0||
 |Dg (Doge)|[idg](https://github.com/LeaveNhA/idg)|Jupyter||[Example Notebooks](https://github.com/LeaveNhA/UIST602-DG)||
 |Dot/graphviz|[jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel)|Jupyter >= 4.0|graphviz version 2.40.1| | | |
 |ESP8266/ESP32|[MicroPython](https://github.com/goatchurchprime/jupyter_micropython_kernel/)|Jupyter|USB or Webrepl|[developer notebooks](https://github.com/goatchurchprime/jupyter_micropython_developer_notebooks)|relies on the micro-controller's paste-mode|
