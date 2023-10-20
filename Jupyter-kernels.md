@@ -95,13 +95,14 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Lua|[IPyLua](https://github.com/pakozm/IPyLua)||||Fork of *Lua Kernel*|
 |Lua|[ILua](https://github.com/guysv/ilua)|||||
 |Lua|[Lua (used in Splash)](https://github.com/scrapinghub/splash/tree/master/splash/kernel)|||||
-|MATLAB >= 2016b|[imatlab](https://github.com/imatlab/imatlab)|ipykernel >= 4.1||||
-|MIPS32 Assembly Language|[MIPS Jupyter Kernel](https://github.com/epalmese/MIPS-jupyter-kernel)|Jupyter|Python3, [SPIM](http://spimsimulator.sourceforge.net/)|[Example](https://github.com/epalmese/MIPS-jupyter-kernel/blob/master/kernel/test.ipynb)|Driven by Python3 and Pexpect|
-|MIT Scheme 9.2|[mit-scheme-kernel](https://github.com/joeltg/mit-scheme-kernel)|Jupyter 4.0||||
 |Mac Os X|[Pharo Smalltalk](https://github.com/jmari/JupyterTalk)|IPython >= 3||[Binder demo](https://mybinder.org/v2/gh/jmari/JupyterTalk.git/master?filepath=Tutorial1_BasicStatistics.ipynb)|Paro 64 bits native kernel, zeromq|
 |Mathics|[IMathics](http://nbviewer.ipython.org/gist/sn6uv/8381447)|||||
+|MATLAB >= 2016b|[imatlab](https://github.com/imatlab/imatlab)|ipykernel >= 4.1||||
 |Matlab|[MATLAB Kernel](https://github.com/calysto/matlab_kernel)|Jupyter|pymatbridge|[Example](http://nbviewer.ipython.org/github/Calysto/matlab_kernel/blob/master/matlab_kernel.ipynb)|MetaKernel|
+|Matlab|[MKernel](https://github.com/allefeld/mkernel)|Jupyter|ipykernel, matlabengine, wurlitzer|[Example](https://github.com/allefeld/mkernel/blob/main/examples/mkernel_test_2.ipynb)|Optimized for both Jupyter and [Quarto](https://quarto.org/)|
 |Maxima|[Maxima-Jupyter](https://github.com/robert-dodier/maxima-jupyter)|Jupyter|Quicklisp|||
+|MIPS32 Assembly Language|[MIPS Jupyter Kernel](https://github.com/epalmese/MIPS-jupyter-kernel)|Jupyter|Python3, [SPIM](http://spimsimulator.sourceforge.net/)|[Example](https://github.com/epalmese/MIPS-jupyter-kernel/blob/master/kernel/test.ipynb)|Driven by Python3 and Pexpect|
+|MIT Scheme 9.2|[mit-scheme-kernel](https://github.com/joeltg/mit-scheme-kernel)|Jupyter 4.0||||
 |Mochi|[Mochi Kernel](https://github.com/pya/mochi-kernel)|||||
 |MongoDB|[iMongo](https://github.com/gusutabopb/imongo)|||||
 |Natural languages|[iTTS](https://github.com/KOLANICH/iTTS)||[speech-dispatcher](https://github.com/brailcom/speechd)|[Example](https://github.com/KOLANICH/iTTS/blob/master/tutorial.ipynb)|Currently cannot output sound into files or blobs because of limitations of speech-dispatcher|
