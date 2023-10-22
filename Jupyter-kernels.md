@@ -140,6 +140,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Q|[PyQ Kernel](https://pypi.org/project/pyq-kernel)|Jupyter||[Python for kdb+](https://pyq.enlnt.com/pyq-2017)||
 |Q#|[IQSharp](https://github.com/microsoft/iqsharp)|Jupyter 4||[QuantumKatas](https://github.com/microsoft/QuantumKatas)|
 |R 3.2|[IRKernel](http://irkernel.github.io/)|IPython 3.0|rzmq|||
+|R >= 4.0|[RKernel](https://github.com/melff/RKernel)|Jupyter|R packages: tools, utils, pbdZMQ (>= 0.2-1), jsonlite (>= 0.9.6), uuid, digest, R6, svglite, repr, htmltools, htmlwidgets, base64enc; Python package: jupyter-server-proxy | [Example Notebooks](https://tmphub.elff.eu/) | A kernel for R, a language and environment for statistical computing and graphics. This kernel relies on the the more recent R6 class system and fully supports interactive widgets based on [ipywidgets version 8](https://ipywidgets.readthedocs.io/)|
 |Racket >= 6.10|[IRacket](https://github.com/rmculpepper/iracket)|IPython >= 3|Racket, ZeroMQ|[Example](https://github.com/rmculpepper/iracket/blob/master/examples/getting-started.ipynb)||
 |Redis|[Redis Kernel](https://github.com/supercoderz/redis_kernel)|IPython >= 3|||Wrapper|
 |Ruby >= 2.3|[IRuby](https://github.com/SciRuby/iruby)|||||
