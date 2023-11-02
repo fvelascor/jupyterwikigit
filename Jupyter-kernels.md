@@ -69,7 +69,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Galileo >= 0.1.3|[iGalileo](https://github.com/cascala/igalileo)|Jupyter >= 4, JupyterLab|||[Docker image](https://hub.docker.com/r/cascala/igalileo/)|
 |Ghc >= 7.6|[IHaskell](https://github.com/gibiansky/IHaskell)||||[Demo](https://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)|
 |Gnuplot|[Gnuplot Kernel](https://github.com/has2k1/gnuplot_kernel)|||[Example](https://github.com/has2k1/gnuplot_kernel/tree/master/examples)|MetaKernel|
-| Go >= 1.19 |[GoNB](https://github.com/janpfeifer/gonb)| Jupyter >= 5 | | [Tutorial](https://github.com/janpfeifer/gonb/blob/e15ac2e8e3fe/examples/tutorial.ipynb)| |
+| Go >= 1.21 |[GoNB](https://github.com/janpfeifer/gonb)| Jupyter >= 5 | | [Tutorial](https://github.com/janpfeifer/gonb/blob/e15ac2e8e3fe/examples/tutorial.ipynb) [Binder Live Demo](https://mybinder.org/v2/gh/janpfeifer/gonb/HEAD?labpath=examples%2Ftutorial.ipynb)| |
 |Go >= 1.4|[IGo](https://github.com/takluyver/igo)||||Unmaintained, use gophernotes|
 |Go >= 1.6|[gopherlab](https://github.com/fabian-z/gopherlab)|Jupyter 4.1, JupyterLab|ZeroMQ (4.x)|[examples](https://github.com/fabian-z/gopherlab/tree/master/examples)|Deprecated, use gophernotes|
 |Go >= 1.8|[lgo](https://github.com/yunabe/lgo)|Jupyter >= 4, JupyterLab|ZeroMQ (4.x)|[Example](http://nbviewer.jupyter.org/github/yunabe/lgo/blob/master/examples/basics.ipynb)|[Docker image](https://hub.docker.com/r/yunabe/lgo/)|
