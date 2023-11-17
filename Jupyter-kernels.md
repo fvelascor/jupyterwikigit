@@ -5,6 +5,8 @@ Kernel Zero is [IPython](https://ipython.org), which you can get through [ipyker
 
 Here is a list of available Jupyter kernels. If you are writing your own kernel, feel free to add it to the table!
 
+<div style="display: block; min-width: 100%; overflow: visible">
+
 | Language(s) Version |Name| Jupyter/IPython Version | 3rd party dependencies | Example Notebooks | Notes |
 |---------------------|----|-------------------------|------------------------|-------------------|-------|
 | |[LFortran](https://lfortran.org/) | | |[Binder demo](https://mybinder.org/v2/gl/lfortran%2Fweb%2Flfortran-binde/master?filepath=Demo.ipynb) | Main repository at [GitLab](https://gitlab.com/lfortran/lfortran) |
@@ -179,6 +181,8 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Xonsh|[Xonsh](https://github.com/calysto/xonsh_kernel)|||[Example](http://nbviewer.ipython.org/github/Calysto/xonsh_kernel/blob/master/xonsh_kernel.ipynb)|MetaKernel|
 |YACAS|[Yacas](https://github.com/grzegorzmazur/yacas_kernel)|||||
 |Zsh >= 5.3|[Z shell](https://github.com/dan-oak/zsh-jupyter-kernel)|IPython >= 3||[Example](https://github.com/dan-oak/zsh-jupyter-kernel/blob/master/example.ipynb)|
+
+</div>
 
 Many kernels are available for installation on [PyPI](https://pypi.python.org/pypi?:action=browse&c=586).
 
