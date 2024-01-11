@@ -160,6 +160,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |SetlX|[ISetlX](https://github.com/1b15/iSetlX)|Jupyter||[Example](https://github.com/1b15/iSetlX/blob/master/example_notebooks/fibonacci.ipynb)||
 |Singular 4.1.0|[jupyter_kernel_singular](https://github.com/sebasguts/jupyter_kernel_singular)|Jupyter||[Demo](https://github.com/sebasguts/jupyter-singular/blob/master/Demo.ipynb)|Optional PySingular for better performance, surf for images, [details](https://www.singular.uni-kl.de/index.php/graphical-interface.html)|
 |Skulpt Python|[Skulpt Python Kernel](https://github.com/Calysto/skulpt_python)|||[Examples](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Examples/Skulpt%20Python%20Examples.ipynb)|MetaKernel|
+|GNU Smalltalk|[GNU Smalltalk Kernel](https://github.com/anlytcs/gst_kernel)|||||
 |Stata|[stata_kernel](https://github.com/kylebarron/stata_kernel)|Jupyter >=5|Stata >=14| | Communicates natively with Stata|
 |Stata|[iPyStata](https://github.com/TiesdeKok/ipystata)|Jupyter|Stata| [Example Notebook](http://nbviewer.jupyter.org/github/TiesdeKok/ipystata/blob/master/ipystata/Example.ipynb)| Implemented using magics machinery of ipython. |
 |Stata >= 17|[pystata-kernel](https://github.com/ticoneva/pystata-kernel)||||Communicates with Stata through the [pystata](https://www.stata.com/python/pystata/) official Python bindings|
