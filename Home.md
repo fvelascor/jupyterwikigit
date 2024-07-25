@@ -798,7 +798,7 @@ doi: http://dx.doi.org/10.1101/012831. [Notebook to generate results in the pape
 
 * [XKCD-styled plots created with Matplotlib](https://nbviewer.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb). Here is the [blog post version](http://jakevdp.github.com/blog/2012/10/07/xkcd-style-plots-in-matplotlib/) with discussion.  By Jake van der Plas.
 
-* [Van Gogh's Starry Night with ipythonblocks](https://nbviewer.org/github/jiffyclub/ipythonblocks/blob/master/demos/starry_night_to_text.ipynb), part of Matt Davis' [ipythonblocks](https://github.com/jiffyclub/ipythonblocks). This is a teaching tool for use with the IPython notebook that provides visual elements to understand programming concepts.
+* [Van Gogh's Starry Night with ipythonblocks](https://nbviewer.org/github/jiffyclub/ipythonblocks/blob/main/demos/starry_night_to_text.ipynb), part of Matt Davis' [ipythonblocks](https://github.com/jiffyclub/ipythonblocks). This is a teaching tool for use with the IPython notebook that provides visual elements to understand programming concepts.
 
 * [Conway's Game of Life](https://nbviewer.org/gist/3778422). Interesting use of convolution operation to calculate the next state of game board, instead of obvious find neighbors and filter the board for next state.
 
