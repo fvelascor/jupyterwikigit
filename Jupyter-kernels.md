@@ -79,6 +79,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 | GrADS >= 2.0 |[GrADS kernel](https://github.com/ykatsu111/jupyter-grads-kernel)|   |  |  |  |
 |Guile 2.0.12|[Guile](https://github.com/jerry40/guile-kernel)|Jupyter 5.2|[guile-json](https://github.com/aconchillo/guile-json), openssl|||
 |[HiveQL](https://en.wikipedia.org/wiki/Apache_Hive)|[HiveQL Kernel](https://github.com/EDS-APHP/HiveQLKernel)|Jupyter >= 5| [pyhive](https://github.com/dropbox/PyHive) | | Display HiveQL queries in HTML tables |
+|Home Assistant|[PyScript](https://github.com/craigbarratt/hass-pyscript-jupyter/)|Jupyter|Home Assistant|[Tutorial](https://github.com/craigbarratt/hass-pyscript-jupyter/blob/master/pyscript_tutorial.ipynb)||
 |Hy|[Hy Kernel](https://github.com/bollwyvl/hy_kernel/)|Jupyter||[Tutorial](http://nbviewer.ipython.org/github/bollwyvl/hy_kernel/blob/master/notebooks/Tutorial.ipynb)|treats Hy as Python pre-processor|
 |Hy|[Calysto Hy](https://github.com/Calysto/calysto_hy)|Jupyter||[Tutorial](https://github.com/Calysto/calysto_hy/blob/master/notebooks/Tutorial.ipynb)| based on MetaKernel (magics, shell, parallel, etc.)|
 |IDL|[idl_kernel](https://github.com/lstagner/idl_kernel)||||IDL seem to have a [built-in kernel](http://www.exelisvis.com/docs/idl_kernel.html) starting with version 8.5|
