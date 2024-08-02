@@ -26,6 +26,7 @@ Here is a list of available Jupyter kernels. If you are writing your own kernel,
 |Bash|[SSH Kernel](https://github.com/NII-cloud-operation/sshkernel)|Jupyter|paramiko, metakernel|[Examples](https://github.com/NII-cloud-operation/sshkernel/tree/master/examples)|A Jupyter kernel specialized in executing commands remotely with paramiko SSH client.|
 |Bash|[Bash](https://github.com/takluyver/bash_kernel)|IPython >= 3|||Wrapper|
 |Bash|[Calysto Bash](https://github.com/Calysto/calysto_bash)||||MetaKernel|
+|Basilisp|[basilisp-kernel](https://github.com/ikappaki/basilisp-kernel)|||[Examples](https://github.com/ikappaki/basilisp-kernel/tree/main/notebooks)|[Basilisp](https://github.com/basilisp-lang/basilisp) is a Python based Lisp implementation broadly compatible with Clojure|
 |Brainfuck|[IBrainfuck](https://github.com/robbielynch/ibrainfuck)|||[Example](https://github.com/robbielynch/ibrainfuck/blob/master/notebooks/a-brief-look-at-brainfuck.ipynb)|Wrapper|
 |C|[C](https://github.com/brendan-rius/jupyter-c-kernel)|Jupyter|`gcc`||||
 |C|[jupyterC](https://github.com/XaverKlemenschits/jupyter-c-kernel)|Jupyter|`gcc>=3.0`||Supports `C89` to `C17`, Built for teaching C||
